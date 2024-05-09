@@ -1,0 +1,30 @@
+{
+  "name": "multerapp",
+  "version": "1.0.0",
+  "description": "Express Project for file upload using multer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitish-mca/multerapp.git"
+  },
+  "keywords": [
+    "FileUpload",
+    "RestAPI",
+    "Express",
+    "ExpresFileUpload",
+    "Multer"
+  ],
+  "author": "Nitish Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nitish-mca/multerapp/issues"
+  },
+  "homepage": "https://github.com/nitish-mca/multerapp#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
